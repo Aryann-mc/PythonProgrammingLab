@@ -1,5 +1,5 @@
 # PythonProgrammingLab
-This is the repo of Python Lab experiments
+This is the repo for Python Lab experiments
 
 Name: Aryan MC
 
