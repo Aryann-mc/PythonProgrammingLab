@@ -1,0 +1,126 @@
+C:\Users\aryan\Desktop\CLGPython\.venv\Scripts\python.exe C:\Users\aryan\Desktop\CLGPython\2.SimpleCalculator.py 
+Calculator program
+1. Add
+2. Subtract
+3. Multiply
+4. Divide
+5. Modulus (%)
+6. Double divide (//)
+7. Square root (sqrt)
+8. Power
+9. Exit
+Enter your choice: 1
+Enter a number: 1
+Enter another number: 2
+Sum: 3
+Calculator program
+1. Add
+2. Subtract
+3. Multiply
+4. Divide
+5. Modulus (%)
+6. Double divide (//)
+7. Square root (sqrt)
+8. Power
+9. Exit
+Enter your choice: 2
+Enter a number: 2
+Enter another number: 1
+Subtract: 1
+Calculator program
+1. Add
+2. Subtract
+3. Multiply
+4. Divide
+5. Modulus (%)
+6. Double divide (//)
+7. Square root (sqrt)
+8. Power
+9. Exit
+Enter your choice: 3
+Enter a number: 3
+Enter another number: 2
+Product: 6
+Calculator program
+1. Add
+2. Subtract
+3. Multiply
+4. Divide
+5. Modulus (%)
+6. Double divide (//)
+7. Square root (sqrt)
+8. Power
+9. Exit
+Enter your choice: 4
+Enter a number: 4
+Enter another number: 2
+Division: 2.0
+Calculator program
+1. Add
+2. Subtract
+3. Multiply
+4. Divide
+5. Modulus (%)
+6. Double divide (//)
+7. Square root (sqrt)
+8. Power
+9. Exit
+Enter your choice: 5
+Enter a number: 5
+Enter another number: 2
+Modulus: 1
+Calculator program
+1. Add
+2. Subtract
+3. Multiply
+4. Divide
+5. Modulus (%)
+6. Double divide (//)
+7. Square root (sqrt)
+8. Power
+9. Exit
+Enter your choice: 6
+Enter a number: 5
+Enter another number: 3
+Double division: 1
+Calculator program
+1. Add
+2. Subtract
+3. Multiply
+4. Divide
+5. Modulus (%)
+6. Double divide (//)
+7. Square root (sqrt)
+8. Power
+9. Exit
+Enter your choice: 7
+Enter a number: 4
+Square root of 4 is: 2.0
+Calculator program
+1. Add
+2. Subtract
+3. Multiply
+4. Divide
+5. Modulus (%)
+6. Double divide (//)
+7. Square root (sqrt)
+8. Power
+9. Exit
+Enter your choice: 8
+Enter the base number: 4
+Enter the power of the number: 2
+The result of base 4 with power 2 is: 16
+Calculator program
+1. Add
+2. Subtract
+3. Multiply
+4. Divide
+5. Modulus (%)
+6. Double divide (//)
+7. Square root (sqrt)
+8. Power
+9. Exit
+Enter your choice: 9
+Thank you for using this program
+
+Process finished with exit code 0

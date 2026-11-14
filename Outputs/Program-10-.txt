@@ -1,0 +1,12 @@
+C:\Users\aryan\Desktop\CLGPython\.venv\Scripts\python.exe C:\Users\aryan\Desktop\CLGPython\10.FrequencyUsingDictionaires.py 
+Enter a text: hello world
+Character frequencies:
+h : 1
+e : 1
+l : 3
+o : 2
+w : 1
+r : 1
+d : 1
+
+Process finished with exit code 0

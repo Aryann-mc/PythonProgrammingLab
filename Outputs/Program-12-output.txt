@@ -1,0 +1,56 @@
+C:\Users\aryan\Desktop\CLGPython\.venv\Scripts\python.exe C:\Users\aryan\Desktop\CLGPython\12.StudentDataManagerUsingFiles.py 
+
+1. Add student
+2. Show students
+3. Remove student
+4. Exit
+Choose an option: 1
+Student name: raju
+Age: 20
+Grade: a
+Student saved.
+
+1. Add student
+2. Show students
+3. Remove student
+4. Exit
+Choose an option: 1
+Student name: alina
+Age: 19
+Grade: a
+Student saved.
+
+1. Add student
+2. Show students
+3. Remove student
+4. Exit
+Choose an option: 2
+
+Name | Age | Grade
+raju | 20 | a
+alina | 19 | a
+
+1. Add student
+2. Show students
+3. Remove student
+4. Exit
+Choose an option: 3
+Student name to be removed: raju
+Student removed.
+
+1. Add student
+2. Show students
+3. Remove student
+4. Exit
+Choose an option: 2
+
+Name | Age | Grade
+alina | 19 | a
+
+1. Add student
+2. Show students
+3. Remove student
+4. Exit
+Choose an option: 4
+
+Process finished with exit code 0

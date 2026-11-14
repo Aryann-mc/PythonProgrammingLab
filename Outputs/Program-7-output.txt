@@ -1,0 +1,5 @@
+C:\Users\aryan\Desktop\CLGPython\.venv\Scripts\python.exe C:\Users\aryan\Desktop\CLGPython\7.FactorialProgram.py 
+Enter a number: 5
+The factorial of 5 is 120
+
+Process finished with exit code 0

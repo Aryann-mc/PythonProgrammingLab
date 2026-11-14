@@ -1,0 +1,5 @@
+C:\Users\aryan\Desktop\CLGPython\.venv\Scripts\python.exe C:\Users\aryan\Desktop\CLGPython\6.PrimeNumber.py 
+Enter a number: 7
+Prime number
+
+Process finished with exit code 0

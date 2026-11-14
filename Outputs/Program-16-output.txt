@@ -1,0 +1,11 @@
+C:\Users\aryan\Desktop\CLGPython\.venv\Scripts\python.exe C:\Users\aryan\Desktop\CLGPython\16.DiceProgramUsingRandomModule.py 
+Welcome to dice game press Y to start and N to stop: y
+You rolled a  4
+Welcome to dice game press Y to start and N to stop: y
+You rolled a  1
+Welcome to dice game press Y to start and N to stop: y
+You rolled a  3
+Welcome to dice game press Y to start and N to stop: n
+Goodbye!
+
+Process finished with exit code 0

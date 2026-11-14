@@ -1,0 +1,4 @@
+C:\Users\aryan\Desktop\CLGPython\.venv\Scripts\python.exe C:\Users\aryan\Desktop\CLGPython\8.FibonacciUsingRecursion.py 
+Enter a number: 5
+0 1 1 2 3 5 
+Process finished with exit code 0

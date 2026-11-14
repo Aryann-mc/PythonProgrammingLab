@@ -1,0 +1,9 @@
+C:\Users\aryan\Desktop\CLGPython\.venv\Scripts\python.exe C:\Users\aryan\Desktop\CLGPython\13.PayrollCSVProgram.py 
+Employee name (or 'done' to finish): madan
+Hours worked: 3
+Hourly rate: 450
+Gross pay: 1350.00
+Employee name (or 'done' to finish): done
+Payroll saved to payroll.csv.
+
+Process finished with exit code 0

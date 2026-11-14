@@ -1,0 +1,33 @@
+C:\Users\aryan\Desktop\CLGPython\.venv\Scripts\python.exe C:\Users\aryan\Desktop\CLGPython\14.BankAccountSystemUsingOOP.py 
+Account owner's name: Rahul
+
+1. Deposit
+2. Withdraw
+3. Show balance
+4. Exit
+Choose an option: 1
+Amount to deposit: 500
+Deposited 500.00.
+
+1. Deposit
+2. Withdraw
+3. Show balance
+4. Exit
+Choose an option: 2
+Amount to withdraw: 20
+Withdrew 20.00.
+
+1. Deposit
+2. Withdraw
+3. Show balance
+4. Exit
+Choose an option: 3
+Rahul's balance: 480.00
+
+1. Deposit
+2. Withdraw
+3. Show balance
+4. Exit
+Choose an option: 4
+
+Process finished with exit code 0

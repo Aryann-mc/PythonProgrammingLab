@@ -1,0 +1,48 @@
+C:\Users\aryan\Desktop\CLGPython\.venv\Scripts\python.exe C:\Users\aryan\Desktop\CLGPython\5.ContactBook.py 
+1. Add Contact
+2. Display Contacts
+3. Search Contact
+4. Delete Contact
+5. Exit
+Enter your choice: 1
+Enter the name: ravi
+Enter the phone number: 9453898767
+Enter the email: rcd123@gmail.com
+1. Add Contact
+2. Display Contacts
+3. Search Contact
+4. Delete Contact
+5. Exit
+Enter your choice: 2
+The contacts present are: 
+{'name': 'ravi', 'phone': '9453898767', 'email': 'rcd123@gmail.com'}
+1. Add Contact
+2. Display Contacts
+3. Search Contact
+4. Delete Contact
+5. Exit
+Enter your choice: 3
+Enter the number or name of the contact: ravi
+{'name': 'ravi', 'phone': '9453898767', 'email': 'rcd123@gmail.com'}
+1. Add Contact
+2. Display Contacts
+3. Search Contact
+4. Delete Contact
+5. Exit
+Enter your choice: 4
+Enter the number or name of the contact: ravi
+1. Add Contact
+2. Display Contacts
+3. Search Contact
+4. Delete Contact
+5. Exit
+Enter your choice: 2
+The contacts present are: 
+1. Add Contact
+2. Display Contacts
+3. Search Contact
+4. Delete Contact
+5. Exit
+Enter your choice: 5
+
+Process finished with exit code 0

@@ -1,0 +1,12 @@
+C:\Users\aryan\Desktop\CLGPython\.venv\Scripts\python.exe C:\Users\aryan\Desktop\CLGPython\4.NumberGuessingGame.py 
+Welcome to number guessing game
+Guess the number: 20
+Too high
+Welcome to number guessing game
+Guess the number: 12
+Too low
+Welcome to number guessing game
+Guess the number: 16
+You guessed the number
+
+Process finished with exit code 0

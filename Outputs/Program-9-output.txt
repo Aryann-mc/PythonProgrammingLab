@@ -1,0 +1,12 @@
+C:\Users\aryan\Desktop\CLGPython\.venv\Scripts\python.exe C:\Users\aryan\Desktop\CLGPython\9.StudentGrading.py 
+Enter student name: ravi
+Enter student ID: 12345
+Enter subject mark of subject1: 10
+Enter subject mark of subject2: 40
+Enter subject mark of subject3: 70
+Enter subject mark of subject4: 60
+Enter subject mark of subject5: 80
+The data is:
+{'name': 'ravi', 'student_id': 12345, 'subject_marks': [10, 40, 70, 60, 80], 'Avg': 52.0, 'grade': 'B'}
+
+Process finished with exit code 0

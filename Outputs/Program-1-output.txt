@@ -1,0 +1,13 @@
+C:\Users\aryan\Desktop\CLGPython\.venv\Scripts\python.exe C:\Users\aryan\Desktop\CLGPython\1.BasicPythonProgram.py 
+Enter your name: Ravi
+Enter your age: 20
+Hello Ravi! You are 20 years old.
+Enter first number: 1
+Enter second number: 2
+Sum: 3
+Difference: -1
+Product: 2
+Division: 0.5
+Modulus: 1
+
+Process finished with exit code 0

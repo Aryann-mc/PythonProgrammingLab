@@ -1,0 +1,35 @@
+C:\Users\aryan\Desktop\CLGPython\.venv\Scripts\python.exe C:\Users\aryan\Desktop\CLGPython\3.AreaCalculation.py 
+Area calculation program
+1. Area of rectangle
+2. Area of triangle
+3. Area of circle
+4. exit
+Enter your choice: 1
+Enter the length of the rectangle: 2
+Enter the breadth of the rectangle: 5
+The area of the rectangle is  10
+Area calculation program
+1. Area of rectangle
+2. Area of triangle
+3. Area of circle
+4. exit
+Enter your choice: 2
+Enter the base of the triangle: 4
+Enter the height of the triangle: 3
+The area of the triangle is  6.0
+Area calculation program
+1. Area of rectangle
+2. Area of triangle
+3. Area of circle
+4. exit
+Enter your choice: 3
+Enter the radius of the circle: 4
+The area of the circle is  50.24
+Area calculation program
+1. Area of rectangle
+2. Area of triangle
+3. Area of circle
+4. exit
+Enter your choice: 4
+
+Process finished with exit code 0

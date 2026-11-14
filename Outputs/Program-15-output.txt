@@ -1,0 +1,73 @@
+C:\Users\aryan\Desktop\CLGPython\.venv\Scripts\python.exe C:\Users\aryan\Desktop\CLGPython\15.LibraryManagerProgram.py 
+
+1. Add book
+2. Show books
+3. Borrow book
+4. Return book
+5. Exit
+Choose an option: 1
+Book title: The Jailer
+Book added.
+
+1. Add book
+2. Show books
+3. Borrow book
+4. Return book
+5. Exit
+Choose an option: 1
+Book title: Killer
+Book added.
+
+1. Add book
+2. Show books
+3. Borrow book
+4. Return book
+5. Exit
+Choose an option: 2
+The Jailer - Available
+Killer - Available
+
+1. Add book
+2. Show books
+3. Borrow book
+4. Return book
+5. Exit
+Choose an option: 3
+Title to borrow: Killer
+Book borrowed.
+
+1. Add book
+2. Show books
+3. Borrow book
+4. Return book
+5. Exit
+Choose an option: 2
+The Jailer - Available
+Killer - Borrowed
+
+1. Add book
+2. Show books
+3. Borrow book
+4. Return book
+5. Exit
+Choose an option: 4
+Title to return: Killer
+Book returned.
+
+1. Add book
+2. Show books
+3. Borrow book
+4. Return book
+5. Exit
+Choose an option: 2
+The Jailer - Available
+Killer - Available
+
+1. Add book
+2. Show books
+3. Borrow book
+4. Return book
+5. Exit
+Choose an option: 5
+
+Process finished with exit code 0
